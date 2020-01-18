@@ -1,6 +1,3 @@
 [submodule "anykernel3"]
 	path = anykernel3
 	url = https://github.com/osm0sis/AnyKernel3
-[submodule "prebuilts"]
-	path = prebuilts
-	url = https://github.com/SebaUbuntu/Android-toolchains
