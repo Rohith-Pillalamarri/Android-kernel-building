@@ -1,3 +1,0 @@
-[submodule "prebuilts/gcc"]
-	path = prebuilts/gcc
-	url = https://github.com/SebaUbuntu/GCC-Android-toolchain
