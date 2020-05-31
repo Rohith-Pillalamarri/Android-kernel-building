@@ -1,5 +1,5 @@
 ##############################################
-#   SebaUbuntu custom kernel build script    #
+#   Asuran-SebaUbuntu kernel build script    #
 ##############################################
 
 # Set defaults directory's
@@ -15,15 +15,15 @@ export ARCH=arm64
 export SUBARCH=arm64
 
 # Set kernel name and defconfig
-export VERSION=SebaUbuntu-KernelName-v1
-export DEFCONFIG=whyred_defconfig
+export VERSION=Asuran-HR-mod-v1
+export DEFCONFIG=oxygen_defconfig
 
 # Keep it as is
 export LOCALVERSION=-$VERSION
 
 # Export Username and machine name
-export KBUILD_BUILD_USER=SebaUbuntu
-export KBUILD_BUILD_HOST=Seba-PC
+export KBUILD_BUILD_USER=ASURA
+export KBUILD_BUILD_HOST=ASURA-PC
 
 # Color definition
 red=`tput setaf 1`
